@@ -16,5 +16,10 @@
 1. ImageClassifier and Transfer Learning (VGG)
 2. Object Detection (SSD)
 3. Semantic segmentation (PSPNet)
-
+4. Pose estimation
+5. GAN generation
+6. GAN anomaly detection
+7. NLP sentiment Transformer
+8. NLP sentiment BERT
+9. Video classification
 ```
